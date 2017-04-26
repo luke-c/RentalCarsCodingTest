@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jax-rs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/jax-rs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/jax-rs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jax-rs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jax-rs" recursive="false" type="SOURCES" />
+  </library>
+</component>
