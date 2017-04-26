@@ -42,7 +42,7 @@ public class RentalCarsResource {
         return gson.toJson(response);
     }
 
-    @Path("/specificationJson.txt")
+    @Path("/specification")
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public String getVehicleSpecifications() {

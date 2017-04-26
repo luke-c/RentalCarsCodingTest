@@ -47,7 +47,7 @@ public class App {
         System.out.println("Application started.\n"
                 + "Try accessing one of the following:\n"
                 + getBaseURI() + "rentalcars/price\n"
-                + getBaseURI() + "rentalcars/specificationJson.txt\n"
+                + getBaseURI() + "rentalcars/specification\n"
                 + getBaseURI() + "rentalcars/rating\n"
                 + getBaseURI() + "rentalcars/score");
 
