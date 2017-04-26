@@ -2,12 +2,10 @@
 Coding test for Rental Cars application. Developed in IntelliJ.
 
 # Requirements
-JDK 1.8
-Maven as I could not get JAX-RS working without it
+JDK 1.8 and Maven as I could not get JAX-RS working without it
 
 # Libraries used
-Gson
-JAX-RS
+Gson and JAX-RS
 
 # Usage
 For part 1, run RentalCarsCodingTest.java and see the results in Terminal
